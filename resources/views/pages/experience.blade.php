@@ -1,7 +1,7 @@
-<section id="experience" class="py-5 bg-white text-white">
+<section id="experience" class="py-5 bg-gray text-white">
     <div class="container">
-      <h2 class="font-weight-light ">
-        Education
+      <h2 class="font-weight-light">
+        EXPERIENCE
       </h2>
       <hr class="mb-5" style="border-top: 1px solid #FFFFFF">
       <div class="row mb-5">

@@ -36,10 +36,15 @@
 
 <body>
     @include('includes.navbar')
-    <div class="wrap container">
+    <div class="wrap">
         <div id="main" class="row">
             <div class="col-md-12">
                 @include('pages.header')
+                @include('pages.education')
+                @include('pages.experience')
+                @include('pages.education')
+                @include('pages.about')
+                @include('pages.contact')
             </div>
         </div>
     </div>

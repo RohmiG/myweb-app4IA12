@@ -1,4 +1,4 @@
-<section id="experience" class="py-5 bg-white text-white">
+<section id="education" class="py-5 bg-white text-white">
     <div class="container">
       <h2 class="font-weight-light ">
         Education

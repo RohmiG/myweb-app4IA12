@@ -42,7 +42,7 @@
                 @include('pages.header')
                 @include('pages.education')
                 @include('pages.experience')
-                @include('pages.education')
+                @include('pages.portofolio')
                 @include('pages.about')
                 @include('pages.contact')
             </div>
